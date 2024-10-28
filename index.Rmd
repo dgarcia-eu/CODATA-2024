@@ -62,7 +62,7 @@ e.g. ABM of collective emotions
 
 ---
 
-# Social Simulation with Generative Agents
+## Social Simulation with Generative Agents
 
 .pull-left[![:scale 100%](figures/Simulacra.png)
 <div class="ref"><span><a href="https://arxiv.org/pdf/2304.03442"> Generative Agents: Interactive Simulacra of Human Behavior. S. Park et al.</a></span></div>]
